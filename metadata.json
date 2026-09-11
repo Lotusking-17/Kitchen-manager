@@ -1,0 +1,6 @@
+{
+  "name": "PantryPal",
+  "description": "Smart KitchenPal alternative with full pantry & fridge management, expiry tracking, grocery shopping list, recipe matching, meal planning, and cloud online login.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

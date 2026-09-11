@@ -1,0 +1,32 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Refrigerator / Pantry Cabinet Silhouette -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M34,26 C30.7,26 28,28.7 28,32 L28,78 C28,81.3 30.7,84 34,84 L64,84 C67.3,84 70,81.3 70,78 L70,32 C70,28.7 67.3,26 64,26 L34,26 Z M33,31 L65,31 C66.1,31 67,31.9 67,33 L67,50 L31,50 L31,33 C31,31.9 31.9,31 33,31 Z M31,54 L67,54 L67,77 C67,78.1 66.1,79 65,79 L33,79 C31.9,79 31,78.1 31,77 L31,54 Z" />
+    
+    <!-- Handles on door -->
+    <path
+        android:fillColor="#10B981"
+        android:pathData="M34,38 L34,45 C34,45.6 34.4,46 35,46 C35.6,46 36,45.6 36,45 L36,38 C36,37.4 35.6,37 35,37 C34.4,37 34,37.4 34,38 Z M34,58 L34,67 C34,67.6 34.4,68 35,68 C35.6,68 36,67.6 36,67 L36,58 C36,57.4 35.6,57 35,57 C34.4,57 34,57.4 34,58 Z" />
+
+    <!-- Fresh eco sprout / leaf badge overlapping pantry on right -->
+    <path
+        android:fillColor="#FCD34D"
+        android:pathData="M72,40 C65,40 60,45 60,52 C60,60 70,64 78,65 C78,57 80,48 72,40 Z" />
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M65,52 C68,52 74,48 78,41 C76,49 71,56 65,58 Z" />
+
+    <!-- Whisk / Spoon accent circle badge -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M75,69 A9,9 0 1,0 75,87 A9,9 0 1,0 75,69 Z" />
+    <path
+        android:fillColor="#059669"
+        android:pathData="M74,73 L76,73 L76,83 L74,83 Z M72,75 L78,75 L75,72 Z" />
+</vector>
+
